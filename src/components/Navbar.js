@@ -36,7 +36,7 @@ const Navbar = () => {
         </Link>
         <div className="flex gap-1 items-center justify-center">
           <BsYoutube className="text-3xl text-rose-600" />
-          <span className="text-2xl">YouTube</span>
+          <span className="text-2xl">YouTubeu</span>
         </div>
         </div>
         <div className='flex items-center justify-center gap-5'>
